@@ -13,7 +13,7 @@ This project was made for the Hardware Project Subject of Universidad de Zaragoz
 
 1. Download the Keil µVision5 IDE.
 2. Put all files in the same directory.
-3. Run and check the IDE [Documentation](https://developer.arm.com/documentation/101407/latest/)) for usage.
+3. Run and check the IDE [Documentation](https://developer.arm.com/documentation/101407/latest/) for usage.
 
 
 ## Version History 
