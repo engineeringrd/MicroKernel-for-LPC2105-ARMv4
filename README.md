@@ -1,7 +1,20 @@
-# MicroKernel-for-LPC2105-ARMv4
+# MicroKernel for LPC2105 ARMv4 
+## About The Project
+Microkernel to enable the execution of the game Conecta4 on the LPC2105 processor written in C and Assembly language for the ARM4 architecture, all running on the Keil µVision5 emulator.
 
-### IDE 
-* Keil uVision
+
+This project was made for the Hardware Project Subject of Universidad de Zaragoza.
+
+
+![Mips](./mips.png)
+
+
+### Installation and usage
+
+1. Download the Keil µVision5 IDE.
+2. Put all files in the same directory.
+3. Run and check the IDE [Documentation](https://developer.arm.com/documentation/101407/latest/)) for usage.
+
 
 ## Version History 
 
@@ -12,11 +25,9 @@
 
 * **Raúl Daramus** - [RaulDaramus](https://github.com/RaulDaramus)
 * **Ibón Cañete** - [IbonCañete](https://github.com/ibonCañete)
-  
-
-Also you can see all contributors on [contributors](https://github.com/your/project/contributors)
+* **Universidad de Zaragoza**
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 see the [LICENSE](LICENSE) file for details.
+This project is [LICENSED](LICENSE) check the file for details.
 
