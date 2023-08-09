@@ -6,7 +6,7 @@ Microkernel to enable the execution of the game Conecta4 on the LPC2105 processo
 This project was made for the Hardware Project Subject of Universidad de Zaragoza.
 
 
-![Mips](./mips.png)
+![Microkernel](./microkernel.png)
 
 
 ### Installation and usage
