@@ -31,8 +31,8 @@ This project was made for the Hardware Project Subject of Universidad de Zaragoz
 
 ## Authors 
 
-* **Raúl Daramus** - [RaulDaramus](https://github.com/RaulDaramus)
-* **Ibón Cañete** - [IbonCañete](https://github.com/ibonCañete)
+* **Raúl.D**
+* **Ibón Cañete**
 * **Universidad de Zaragoza**
 
 ## License
